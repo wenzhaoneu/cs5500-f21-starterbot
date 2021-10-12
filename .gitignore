@@ -126,4 +126,3 @@ gradle-app.setting
 
 # used by direnv
 .envrc
-fly.toml
